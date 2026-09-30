@@ -1,6 +1,6 @@
 <div align="center">
 
-# Tafadzwa Nhesvure
+# Tafadzwa Terrence Nhesvure
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=650&lines=Software+Engineer+%C2%B7+AI%2FML+%26+Full-Stack;MS+Computer+Science+%40+Pace+University+%28Dec+2026%29;I+build+real+systems%2C+not+tutorials)](https://git.io/typing-svg)
 
