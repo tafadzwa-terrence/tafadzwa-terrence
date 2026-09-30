@@ -94,10 +94,6 @@ pressure, respect procedure, test before you ship.
 | SkillsBuild digital credential | IBM / Credly | 2025 |
 | CITI certified | CITI Program | 2026 |
 
-### GitHub Stats
-
-![Tafadzwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=tafadzwa-terrence&show_icons=true&theme=default)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tafadzwa-terrence&theme=default)
 
 ### Let's Connect
 
