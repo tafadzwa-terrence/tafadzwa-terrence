@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Tafadzwa Nhesvure
 
-<!--
-**tafadzwa-terrence/tafadzwa-terrence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MS Computer Science @ Pace University (Dec 2026) | Software Engineer, AI/ML & Full-Stack**
 
-Here are some ideas to get you started:
+I build real, working systems, not tutorials. Multi-tenant SaaS platforms, ML-powered advising tools, IoT sensor networks, and the dashboards running on TV screens across my university.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Currently: Graduate Student Technology Specialist @ Pace Learning Commons, and finishing my MS in CS (GPA 3.88)
+- Research: AI for education, presented at INTED 2026, two papers at ICERI 2026
+- Plot twist: before software, I operated a thermal power station in Zimbabwe. Safety-critical systems teach you things tutorials don't.
+- Open to new-grad SWE / AI / data roles starting January 2027: tn26904n@pace.edu
+
+## What I've built
+
+| Project | What it is | Stack |
+|---|---|---|
+| [RestaurantOS](https://github.com/tafadzwa-terrence/restaurant-os) | Multi-tenant restaurant operations platform: ordering flow, owner dashboard, real order creation | Next.js, FastAPI, PostgreSQL, Docker |
+| [Learning Commons Dashboard](https://github.com/tafadzwa-terrence/learning-commons-dashboard) | Real-time dashboard on Pace's campus TV displays: live cameras, weather, tickers, auto-refresh with offline fallback | Python, HTML, HLS |
+
+## Toolbox
+
+`Python` `Java` `TypeScript` `JavaScript` `SQL` `FastAPI` `Next.js` `Spring Boot` `PostgreSQL` `Docker` `MQTT` `RAG / LLMs` `Git`
