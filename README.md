@@ -1,21 +1,48 @@
-# Hi, I'm Tafadzwa Nhesvure
+<div align="center">
 
-**MS Computer Science @ Pace University (Dec 2026) | Software Engineer, AI/ML & Full-Stack**
+# Tafadzwa Nhesvure
 
-I build real, working systems, not tutorials. Multi-tenant SaaS platforms, ML-powered advising tools, IoT sensor networks, and the dashboards running on TV screens across my university.
+### Software Engineer · AI/ML & Full-Stack
+MS Computer Science, Pace University (Dec 2026)
 
-- Currently: Graduate Student Technology Specialist @ Pace Learning Commons, and finishing my MS in CS (GPA 3.88)
-- Research: AI for education, presented at INTED 2026, two papers at ICERI 2026
-- Plot twist: before software, I operated a thermal power station in Zimbabwe. Safety-critical systems teach you things tutorials don't.
-- Open to new-grad SWE / AI / data roles starting January 2027: tn26904n@pace.edu
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-## What I've built
+</div>
 
-| Project | What it is | Stack |
-|---|---|---|
-| [RestaurantOS](https://github.com/tafadzwa-terrence/restaurant-os) | Multi-tenant restaurant operations platform: ordering flow, owner dashboard, real order creation | Next.js, FastAPI, PostgreSQL, Docker |
-| [Learning Commons Dashboard](https://github.com/tafadzwa-terrence/learning-commons-dashboard) | Real-time dashboard on Pace's campus TV displays: live cameras, weather, tickers, auto-refresh with offline fallback | Python, HTML, HLS |
+---
 
-## Toolbox
+### About
 
-`Python` `Java` `TypeScript` `JavaScript` `SQL` `FastAPI` `Next.js` `Spring Boot` `PostgreSQL` `Docker` `MQTT` `RAG / LLMs` `Git`
+I build real, working systems, not tutorials. Currently finishing my MS in CS
+at Pace (GPA 3.88) while working as a Graduate Student Technology Specialist
+at the university's Learning Commons.
+
+Before software, I operated a thermal power station in Zimbabwe.
+Safety-critical systems teach you things tutorials don't: diagnose under
+pressure, respect procedure, test before you ship.
+
+My research is in AI for education: ML on student engagement data (INTED 2026)
+and two co-authored ICERI 2026 papers on intelligent academic advising and AI
+governance.
+
+### Featured work
+
+**[RestaurantOS](https://github.com/tafadzwa-terrence/restaurant-os)**:
+Multi-tenant restaurant operations platform: customer ordering flow
+(pickup/delivery), owner dashboard with order lifecycle management, real order
+creation through a versioned FastAPI backend, tenant-scoped PostgreSQL models
+with Alembic migrations, Docker Compose with seeded demo data.
+`docker compose up` for a live demo.
+
+### Open to
+
+New-grad Software Engineering, AI/ML, and Data roles starting January 2027.
+New York, Seattle, Boston, remote.
+
+tn26904n@pace.edu · [LinkedIn](https://www.linkedin.com/in/tafadzwa-nhesvure)
