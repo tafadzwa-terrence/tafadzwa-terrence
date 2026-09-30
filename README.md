@@ -1,6 +1,6 @@
 <div align="center">
 
-# Tafadzwa Nhesvure
+# Tafadzwa Terrence Nhesvure
 
 ### Software Engineer · AI/ML & Full-Stack
 MS Computer Science, Pace University (Dec 2026)
