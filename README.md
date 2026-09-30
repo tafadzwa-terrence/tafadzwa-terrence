@@ -2,7 +2,7 @@
 
 **MS Computer Science @ Pace University (Dec 2026) | Software Engineer, AI/ML & Full-Stack**
 
-I build real, working systems. Multi-tenant SaaS platforms, ML-powered advising tools, IoT sensor networks, and the dashboards running on TV screens across my university.
+I build real, working systems, not tutorials. Multi-tenant SaaS platforms, ML-powered advising tools, IoT sensor networks, and the dashboards running on TV screens across my university.
 
 - Currently: Graduate Student Technology Specialist @ Pace Learning Commons, and finishing my MS in CS (GPA 3.88)
 - Research: AI for education, presented at INTED 2026, two papers at ICERI 2026
