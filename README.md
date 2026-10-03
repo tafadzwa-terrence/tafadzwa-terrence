@@ -5,10 +5,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=650&lines=Software+Engineer+%C2%B7+AI%2FML+%26+Full-Stack;MS+Computer+Science+%40+Pace+University+%28Dec+2026%29;I+build+real+systems%2C+not+tutorials)](https://github.com/tafadzwa-terrence)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tafadzwa-nhesvure)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tn26904n@pace.edu)
-[![Profile Views](https://komarev.com/ghpvc/?username=tafadzwa-terrence&color=2E86C1&style=flat)](https://github.com/tafadzwa-terrence)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tafadzwa-t-nhesvure)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nhesvuretafadzwa@gmail.com)
 </div>
 
 ---
@@ -96,15 +94,10 @@ pressure, respect procedure, test before you ship.
 | SkillsBuild digital credential | IBM / Credly | 2025 |
 | CITI certified | CITI Program | 2026 |
 
-### GitHub Stats
-
-[![Tafadzwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=tafadzwa-terrence&show_icons=true&theme=default)](https://github.com/tafadzwa-terrence)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tafadzwa-terrence&theme=default)](https://github.com/tafadzwa-terrence)
-
 ### Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tafadzwa-nhesvure)
-[![Gmail](https://img.shields.io/badge/Gmail-Email_Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tn26904n@pace.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tafadzwa-t-nhesvure)
+[![Gmail](https://img.shields.io/badge/Gmail-Email_Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nhesvuretafadzwa@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/tafadzwa-terrence)
 
 > "Safety-critical systems teach you things tutorials don't."
